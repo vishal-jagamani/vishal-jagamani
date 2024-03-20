@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Vishal Jagamani, welcome to my github profile...
-# 👋 About Me
+# 👨‍💻 About Me
 
 I am a seasoned Software Developer with 1.5+ years of experience specializing in React, Node.js, MySQL, and Elasticsearch. I excel in crafting dynamic web applications, prioritizing user-centric design, and ensuring optimal database management. Known for collaborating effectively in cross-functional teams, I bring a passion for innovation and a commitment to delivering high-quality, scalable solutions.
 
