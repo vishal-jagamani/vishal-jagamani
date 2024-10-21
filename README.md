@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vishal Jagamani, welcome to my github profile...
 # 👨‍💻 About Me
 
-I am a seasoned Fullstack Developer with 2+ years of experience specializing in React, Node.js, Typescript, MySQL, MongoDB and Elasticsearch. I excel in crafting dynamic web applications, prioritizing user-centric design, and ensuring optimal database management. Known for collaborating effectively in cross-functional teams, I bring a passion for innovation and a commitment to delivering high-quality, scalable solutions.
+Software Developer with over 2 years of experience in designing and developing high-quality web applications using React, Node.js, Express, Typescript, MySQL, and Elasticsearch. Proficient in both frontend and backend development, with a passion for crafting scalable solutions and delivering exceptional user experiences. Known for delivering robust applications by integrating secure APIs and optimizing database performance.
 
 ## 🚀 Technical Skills
 
@@ -14,23 +14,17 @@ I am a seasoned Fullstack Developer with 2+ years of experience specializing in 
   - ReactJS, NodeJS with MySQL
 - Adobe Creative Suite: Photoshop, Illustrator, Premiere Pro, After Effects, InDesign, XD
 
-## 💼 Internship Experience
-
-**PortDev India Pvt Ltd., Bangalore**
-*March 2022 - June 2022*
-- Spearheaded development in a Node.js and React project, gaining hands-on experience in full-stack technologies.
-- Worked on enhancing a Java Spring Framework project, showcasing versatility in full-stack development.
-
 ## 💻 Professional Experience
 
 **PortDev India Pvt Ltd., Bangalore | Software Developer**
 *July 2022 – Present*
-- Developed and maintained scalable web applications using Node.js, React, and React Native for over 1.5 years.
-- Designed and optimized MySQL databases for efficient data storage and retrieval.
-- Integrated Elasticsearch to enhance search functionality and user experience.
-- Collaborated closely with clients to provide dedicated support and ensure client satisfaction.
-- Actively participated in troubleshooting and resolving technical issues, contributing to smooth application functioning.
-- Stayed updated on industry best practices and adopted the latest technologies in projects.
+- Led the development of full-stack applications using React and Node.js, delivering optimized solutions that improved user engage.
+- Implemented Elasticsearch for data search, resulting in a 40% reduction in data retrieval time.
+- Developed secure RESTful APIs using Node.js and MongoDB, integrating JWT for authentication and authorization.
+
+**PortDev India Pvt Ltd., Bangalore | Software Developer (Intern)**
+*July 2022 – Present*
+- Participated in internship programs, gaining hands-on experience in full-stack development with projects involving React, Node.js with Express.js and MySQL database demonstrating versatility and skill in diverse technology stacks.
 
 ## 🎓 Education
 
