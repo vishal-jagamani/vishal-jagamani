@@ -24,21 +24,19 @@ I enjoy designing robust backend systems and crafting responsive UIs that delive
 
 **Others:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, InDesign, XD)
 
-## 💼 Professional Experience
-
 ### 🔹 **Software Developer – PortDev India Pvt. Ltd., Bangalore**  
 📅 *July 2022 – July 2025*
 
-- Developed full-stack applications using **React.js**, **Node.js**, and **MySQL**, improving performance and user engagement.
-- Integrated **Elasticsearch** for fast, scalable data search, reducing retrieval time by **40%**.
-- Built and secured **RESTful APIs** using **Node.js**, **Express**, and **MongoDB**, with **JWT-based authentication**.
-- Deployed apps using **Docker**, **Nginx**, and **AWS EC2**, managing infrastructure with **Portainer**.
+- Developed and maintained scalable backend services using **Node.js** and **Express.js**.
+- Integrated **Elasticsearch** to improve search performance and support high-volume queries.
+- Implemented secure authentication and authorization flows using **JWT**.
+- Optimized **SQL queries** and managed schema changes and migrations in **MySQL**.
 
 ### 🔹 **Software Development Intern – PortDev India Pvt. Ltd.**  
 📅 *Jan 2022 – June 2022*
 
-- Worked on real-world full-stack projects using **React.js**, **Node.js**, **Express**, and **MySQL**.
-- Gained practical experience in end-to-end feature development and team collaboration.
+- Built a full-stack **To-Do application** using **React**, **Node.js**, **Express**, and **MySQL** during training; practiced **REST API** development and **user authentication**.
+- Contributed to a **production-level feature** in an enterprise application using **Java Spring Boot** and **MySQL**, working closely with the backend team during **Agile sprints**.
 
 ## 📚 Education
 
