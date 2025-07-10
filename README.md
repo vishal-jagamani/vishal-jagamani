@@ -2,15 +2,11 @@
 
 Welcome to my GitHub profile!
 
----
-
 ## 👨‍💻 About Me
 
 I’m a passionate Software Developer with 3 years of professional experience building scalable, high-performance web applications. My core expertise lies in **JavaScript, TypeScript, React.js, Node.js (Express), MySQL**, and **MongoDB**, with growing experience in **DevOps** (Docker, Nginx, AWS EC2).
 
 I enjoy designing robust backend systems and crafting responsive UIs that deliver great user experiences. I follow best practices in API design, database optimization, and clean code architecture.
-
----
 
 ## 🚀 Tech Stack & Tools
 
@@ -28,8 +24,6 @@ I enjoy designing robust backend systems and crafting responsive UIs that delive
 
 **Others:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, InDesign, XD)
 
----
-
 ## 💼 Professional Experience
 
 ### 🔹 **Software Developer – PortDev India Pvt. Ltd., Bangalore**  
@@ -46,8 +40,6 @@ I enjoy designing robust backend systems and crafting responsive UIs that delive
 - Worked on real-world full-stack projects using **React.js**, **Node.js**, **Express**, and **MySQL**.
 - Gained practical experience in end-to-end feature development and team collaboration.
 
----
-
 ## 📚 Education
 
 - 🎓 **Master of Computer Applications (MCA)**  
@@ -62,15 +54,11 @@ I enjoy designing robust backend systems and crafting responsive UIs that delive
 - 🏫 **SSLC**  
   *Santa Meera English Medium High School* (Completed in 2014)
 
----
-
 ## 📫 Let's Connect!
 
 Feel free to reach out for **collaboration, freelance projects, or tech discussions**. I'm always open to exploring innovative ideas and impactful products.
 
 📧 **Email**: vishaljagamani20@gmail.com  
 💼 **LinkedIn**: [linkedin.com/in/vishaljagamani](https://www.linkedin.com/in/vishaljagamani)
-
----
 
 _Thanks for visiting!_ 🌟
