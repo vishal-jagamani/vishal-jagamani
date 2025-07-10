@@ -1,54 +1,76 @@
-### Hi there 👋 I'm Vishal Jagamani, welcome to my github profile...
-# 👨‍💻 About Me
+# 👋 Hi there, I'm Vishal Jagamani!
 
-Software Developer with over 2 years of experience in designing and developing high-quality web applications using React, Node.js, Express, Typescript, MySQL, and Elasticsearch. Proficient in both frontend and backend development, with a passion for crafting scalable solutions and delivering exceptional user experiences. Known for delivering robust applications by integrating secure APIs and optimizing database performance.
-
-## 🚀 Technical Skills
-
-- Programming Languages: C, Python, HTML, CSS, JavaScript
-- Frameworks & Libraries: Bootstrap, Python Flask, NodeJS, ReactJS, React Native, React Redux/RTK Query
-- Databases: MySQL, Elasticsearch
-- Version Control: GIT
-- Stacks:
-  - HTML/CSS, Python Flask with MySQL
-  - ReactJS, NodeJS with MySQL
-- Adobe Creative Suite: Photoshop, Illustrator, Premiere Pro, After Effects, InDesign, XD
-
-## 💻 Professional Experience
-
-**PortDev India Pvt Ltd., Bangalore | Software Developer**
-*July 2022 – Present*
-- Led the development of full-stack applications using React and Node.js, delivering optimized solutions that improved user engage.
-- Implemented Elasticsearch for data search, resulting in a 40% reduction in data retrieval time.
-- Developed secure RESTful APIs using Node.js and MongoDB, integrating JWT for authentication and authorization.
-
-**PortDev India Pvt Ltd., Bangalore | Software Developer (Intern)**
-*July 2022 – Present*
-- Participated in internship programs, gaining hands-on experience in full-stack development with projects involving React, Node.js with Express.js and MySQL database demonstrating versatility and skill in diverse technology stacks.
-
-## 🎓 Education
-
-- Master of Computer Applications from KLS Gogte Institute of Technology (2020 - 2022)
-- Bachelor of Computer Applications from Jain College of BBA, BCA & Commerce (2017 - 2020)
-- PUC-Commerce from SRI BM Mahaveer Jain College (Completed in 2017)
-- SSLC from Santa Meera English Medium High School (Completed in 2014)
+Welcome to my GitHub profile!
 
 ---
 
-📫 Reach out to me for collaboration opportunities or to discuss tech ideas!
+## 👨‍💻 About Me
 
+I’m a passionate Software Developer with 3 years of professional experience building scalable, high-performance web applications. My core expertise lies in **JavaScript, TypeScript, React.js, Node.js (Express), MySQL**, and **MongoDB**, with growing experience in **DevOps** (Docker, Nginx, AWS EC2).
 
-<!--
-**vishal-jagamani/vishal-jagamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy designing robust backend systems and crafting responsive UIs that deliver great user experiences. I follow best practices in API design, database optimization, and clean code architecture.
 
-Here are some ideas to get you started
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Tools
+
+**Languages:**  JavaScript, TypeScript, C, Python, HTML5, CSS3
+
+**Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit / RTK Query, Bootstrap, React Native
+
+**Backend:** Node.js, Express.js, REST APIs, Auth0
+
+**Databases:** MySQL, MongoDB, Elasticsearch
+
+**DevOps & Deployment:** Docker, Docker Compose, Nginx, AWS EC2, Portainer, Vercel
+
+**Version Control & Tools:** Git, GitHub, Postman, VS Code
+
+**Others:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, InDesign, XD)
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 **Software Developer – PortDev India Pvt. Ltd., Bangalore**  
+📅 *July 2022 – July 2025*
+
+- Developed full-stack applications using **React.js**, **Node.js**, and **MySQL**, improving performance and user engagement.
+- Integrated **Elasticsearch** for fast, scalable data search, reducing retrieval time by **40%**.
+- Built and secured **RESTful APIs** using **Node.js**, **Express**, and **MongoDB**, with **JWT-based authentication**.
+- Deployed apps using **Docker**, **Nginx**, and **AWS EC2**, managing infrastructure with **Portainer**.
+
+### 🔹 **Software Development Intern – PortDev India Pvt. Ltd.**  
+📅 *Jan 2022 – June 2022*
+
+- Worked on real-world full-stack projects using **React.js**, **Node.js**, **Express**, and **MySQL**.
+- Gained practical experience in end-to-end feature development and team collaboration.
+
+---
+
+## 📚 Education
+
+- 🎓 **Master of Computer Applications (MCA)**  
+  *KLS Gogte Institute of Technology* (2020 – 2022)
+
+- 🎓 **Bachelor of Computer Applications (BCA)**  
+  *Jain College of BBA, BCA & Commerce* (2017 – 2020)
+
+- 📘 **PUC – Commerce**  
+  *SRI BM Mahaveer Jain College* (2015 – 2017)
+
+- 🏫 **SSLC**  
+  *Santa Meera English Medium High School* (Completed in 2014)
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out for **collaboration, freelance projects, or tech discussions**. I'm always open to exploring innovative ideas and impactful products.
+
+📧 **Email**: vishaljagamani20@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/vishaljagamani](https://www.linkedin.com/in/vishaljagamani)
+
+---
+
+_Thanks for visiting!_ 🌟
