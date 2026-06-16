@@ -98,9 +98,9 @@ Jain College of BBA, BCA & Commerce (2017 – 2020)
 
 📧 Email: [vishaljagamani20@gmail.com](mailto:vishaljagamani20@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/vishaljagamani
+💼 LinkedIn: [vishaljagamani](https://linkedin.com/in/vishaljagamani)
 
-🌐 GitHub: https://github.com/vishal-jagamani
+🌐 GitHub: [vishal-jagamani](https://github.com/vishal-jagamani)
 
 ---
 
