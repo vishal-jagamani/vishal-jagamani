@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vishal Jagamani
 
-### Software Development Engineer - I | Backend & Distributed Systems Enthusiast
+### Software Development Engineer - I
 
 I'm a **Software Development Engineer - I** with **4+ years of experience** architecting and scaling backend microservices, event-driven pipelines, and Backend-for-Frontend (BFF) layers.
 
